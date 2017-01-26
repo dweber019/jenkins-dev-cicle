@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Jenkins - CI",
+    "packageVersion": "0.0.1",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "dweber019",
+    "githubRepository": "jenkins-dev-cicle"
+  }
+}
