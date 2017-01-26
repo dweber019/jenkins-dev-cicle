@@ -1,6 +1,6 @@
-[] Intro
-[] Why
-[] What
-[] How
-[] Links
-[] End
+[X] Intro
+[X] Why
+[X] What
+[X] How
+[X] Links
+[X] End
